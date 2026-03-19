@@ -20,6 +20,11 @@
 - **界面**: PyQt6 (High DPI Support)
 - **监听**: pynput, keyboard
 - **构建**: Nuitka (Onefile Mode)
+  
+### 🚀 快速开始
+1. 克隆仓库: `git clone https://github.com/Vesper6/EagleEye-Accessibility.git`
+2. 安装依赖: `pip install -r requirements.txt`
+3. 运行: `python main.py`
 
 ### 📥 立即下载
 请前往 [Releases 页面](https://github.com/Vesper6/EagleEye-Accessibility/releases) 下载最新的 `EagleEye.exe`。
