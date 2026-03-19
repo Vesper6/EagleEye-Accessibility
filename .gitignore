@@ -1,0 +1,21 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+.venv/
+venv/
+ENV/
+
+# 编译产物 (Nuitka / PyInstaller)
+*.build/
+*.dist/
+out/
+dist/
+build/
+*.spec
+
+# 编辑器配置
+.idea/
+.vscode/
